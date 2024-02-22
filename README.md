@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ManDownTheStreet
 - 👀 I’m interested in nerdy stuff
 - 🌱 I’m currently learning piython
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me try to find my discord
+- 💞️ I’m looking to collaborate on... nothing
+- 📫 How to reach me: try to find my discord
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ✨No I will not format my code✨
 <!---
