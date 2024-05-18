@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ManDownTheStreet
 - 👀 I’m interested in nerdy stuff
-- 🌱 I’m currently learning piython
+- 🌱 I’m currently learning Somthing... I think?
 - 💞️ I’m looking to collaborate on... ???
 - 📫 How to reach me: try to find my discord
 - 😄 Pronouns: Any
